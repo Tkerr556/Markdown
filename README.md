@@ -7,7 +7,7 @@
 [Click here to go to my Second markdown file](https://github.com/Tkerr556/Markdown/blob/master/Project.md)
 
 Our fraternity logo:
-![Our Fraternity Crest](AGS Accessiry.png)
+![Our Fraternity Crest](Markdown/AGS Accessiry.png)
 
 Hak 5 logo linked off the web:
 ![Hak5 logo](https://www.hak5.org/wp-content/uploads/2014/12/wifi-pineapple-symbol-black-background.png)
